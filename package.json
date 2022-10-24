@@ -1,10 +1,13 @@
 {
-  "name": "EZLQ1Yjke0CRHQHIlsfZSers0Ur4vBnUxfViWVdYOl823gEjW1",
+  "name": "เว็บคาสิโน - เว็บพนัน tiger789(ไทเกอร์789) สมัครฟรี เครดิตฟรี ที่นี้",
   "theme": "syntax",
   "version": "1.0.10",
   "description": "เว็บคาสิโน A  หรือ เว็บคาสิโน ที่ Tiger789 เว็บพนัน มีเกมพนันทุกชนิด เว็บคาสิโน แหล่งรวมเกมเดิมพันที่ทันสมัยที่สุดเพื่อความสะดวกสบายในการเข้าใช้บริการ สามา",
   "repository": "https://github.com/gullibles-02/indoor-04",
-  "keywords": ["เว็บคาสิโน","เว็บคาสิโน Tiger789"],
+  "keywords": [
+    "เว็บคาสิโน",
+    "เว็บคาสิโน Tiger789"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
