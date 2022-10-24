@@ -1,10 +1,13 @@
 {
-  "name": "AX6xcQwglo7A9zkrcfeu5QBwOFUQZCWGkULR1zG0ECwN20iqQc",
+  "name": "พนันบอล - เว็บพนัน slotxo(สล็อตเอ็กโอ) สมัครฟรี เครดิตฟรี ที่นี้",
   "theme": "syntax",
   "version": "1.0.7",
   "description": "พนันบอล เว็บนี้ครบวงจรเดิมพันง่าย ถ้า พนันบอล ที่ SlotXO เว็บพนัน อันดับหนึ่ง Lucky99 เข้าสู่ระบบ ล่าสุด ระบบเร็วซื้อสะดวกฝาก-ถอนอัตโนมัติ รวดเร็ว ทั้งระบบ",
   "repository": "https://github.com/gullibles-02/indoor-04",
-  "keywords": ["พนันบอล","พนันบอล SlotXO"],
+  "keywords": [
+    "พนันบอล",
+    "พนันบอล SlotXO"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
