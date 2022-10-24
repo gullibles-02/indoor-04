@@ -1,13 +1,10 @@
 {
-  "name": "เกมพนัน - เว็บพนัน bodog(โบด็อก) สมัครฟรี เครดิตฟรี ที่นี้",
+  "name": "F63mZQkr1aAxORXHoCjWIuGc7NF8nuEd5re50WupXLALGRZkw8",
   "theme": "syntax",
   "version": "1.0.12",
   "description": "เกมพนัน Wild จนถึง เกมพนัน Bodog เว็บพนันออนไลน์ อันดับหนึ่ง เกมพนัน Symbol ของเกม Ways Of The Qilin Png Slot จะเป็นรูปตัวกิเลน และมีคำว่า Wild กำกับเอาไว้",
   "repository": "https://github.com/gullibles-02/indoor-04",
-  "keywords": [
-    "เกมพนัน",
-    "เกมพนัน Bodog"
-  ],
+  "keywords": ["เกมพนัน","เกมพนัน Bodog"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
