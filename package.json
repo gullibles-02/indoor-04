@@ -1,10 +1,13 @@
 {
-  "name": "8dEpaC4N4CrjG3sJghfMi0Ty6flWsxVBm2YKO69K945IltJKbg",
+  "name": "เว็บบอล - เว็บพนัน ace333(เอซ333) สมัครฟรี เครดิตฟรี ที่นี้",
   "theme": "syntax",
   "version": "1.0.6",
   "description": "เว็บบอล บาคาร่า อย่างไรก็ตาม เว็บบอล ที่ Ace333 เว็บพนัน อันดับหนึ่ง Sa มีให้เดิมพันแบบทั่วไปซุปเปอร์ซิกซ์ และ วัววัวบาคาร่า Sa Gaming การเดิมพันมีทั้งหมด ",
   "repository": "https://github.com/gullibles-02/indoor-04",
-  "keywords": ["เว็บบอล","เว็บบอล Ace333"],
+  "keywords": [
+    "เว็บบอล",
+    "เว็บบอล Ace333"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
