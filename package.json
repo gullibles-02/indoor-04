@@ -1,10 +1,13 @@
 {
-  "name": "YXkZs9EukMHsViZRMTepsuVJ5VlVWSAAaxvxRb3EpIP1dz966W",
+  "name": "เว็บบอล แตกต่างกันอย่างไร",
   "theme": "syntax",
   "version": "1.0.15",
   "description": "เว็บบอล ลดข้อจำกัดรายได้ และ เว็บบอล ที่ 818King เว็บพนัน มีเกมพนันทุกชนิด เดิมพันขั้นต่ำ 10 บาท เงินมากหลายคุณกำหนดได้เอง ตัวไฮไลท์ก็คงไม่แพ้การเงินที่ไม่",
   "repository": "https://github.com/gullibles-02/indoor-04",
-  "keywords": ["เว็บบอล","เว็บบอล 818King"],
+  "keywords": [
+    "เว็บบอล",
+    "เว็บบอล 818King"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
