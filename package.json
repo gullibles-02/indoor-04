@@ -1,10 +1,13 @@
 {
-  "name": "wAtD8av0RCeFZZDHiYhVH2UabwCs2ExcbmFUnfloAUUjYWDvih",
+  "name": "สล็อตออนไลน์ ได้อย่างไร",
   "theme": "syntax",
   "version": "1.0.13",
   "description": "สล็อตออนไลน์ สวัสดีผู้ติดตาม ว่าด้วย สล็อตออนไลน์ ที่ Sawan888 เว็บพนัน มีเกมพนันทุกชนิด Stakehow ทุกท่าน สำหรับบทความนี้ผมจะมาแนะนำขั้นตอนการ แทง บอลชุด ส",
   "repository": "https://github.com/gullibles-02/indoor-04",
-  "keywords": ["สล็อตออนไลน์","สล็อตออนไลน์ Sawan888"],
+  "keywords": [
+    "สล็อตออนไลน์",
+    "สล็อตออนไลน์ Sawan888"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
