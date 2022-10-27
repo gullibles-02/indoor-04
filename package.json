@@ -1,10 +1,16 @@
 {
-  "name": "8ZwjphhMQFZccoaJtswX1NmBKYs3LqlbN0dXwjMn0LlVzxHd5m",
+  "name": "ไลฟ์สด เลข คืออะไร - เว็บใหม่ lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.66",
   "description": "ไลฟ์สด เลข หากสมาชิกสนใจเสี่ยงโชคแทงหวย อย่างไรก็ตาม ไลฟ์สด เลข Lotto หวยออนไลน์ อันดับหนึ่ง ซื้อหวยออนไลน์ สมัครซื้อหวยพม่าออนไลน์ อัตราจ่ายรางวัลที่สูงถึ",
   "repository": "https://github.com/gullibles-02/indoor-04",
-  "keywords": ["ไลฟ์สด เลข","ไลฟ์สด","เลข","ไลฟ์สด Lotto","เลข Lotto"],
+  "keywords": [
+    "ไลฟ์สด เลข",
+    "ไลฟ์สด",
+    "เลข",
+    "ไลฟ์สด Lotto",
+    "เลข Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
