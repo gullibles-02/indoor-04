@@ -1,10 +1,13 @@
 {
-  "name": "IdoOv6lBo1UcDQgiOC8BHSgDxMP1rjrza0YA9HTtfwO7P8XT3h",
+  "name": "เว็บแทงบอล ทำไมถึงนิยม",
   "theme": "syntax",
   "version": "1.0.29",
   "description": "เว็บแทงบอล Laosbet789 หากว่า เว็บแทงบอล ที่ Vwin เว็บพนัน อันดับหนึ่ง คือ เว็บไซต์ให้บริการออนไลน์มาตรฐานระดับสากล เป็น Laosbet88 ทางเข้าหลักเว็บตรงไม่ผ่าน",
   "repository": "https://github.com/gullibles-02/indoor-04",
-  "keywords": ["เว็บแทงบอล","เว็บแทงบอล Vwin"],
+  "keywords": [
+    "เว็บแทงบอล",
+    "เว็บแทงบอล Vwin"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
