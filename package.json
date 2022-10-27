@@ -1,10 +1,13 @@
 {
-  "name": "kGUtS4J10g0uYtxQe3WQWRh7GVW12B6nHNIBuIhb1ErzPwwCkV",
+  "name": "ฟังหวยออนไลน์ สรุปว่าอะไร - เว็บใหม่ lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.62",
   "description": "ฟังหวยออนไลน์ หมายเหตุ หากว่า ฟังหวยออนไลน์ ที่ Lotto เว็บหวยออนไลน์ อันดับหนึ่ง หวยมาเลย์ ( Magnum 4d 万能万字 ) หรือ หวยมาเลเซีย เป็นการออกรางวัลที่ถูกต้องตา",
   "repository": "https://github.com/gullibles-02/indoor-04",
-  "keywords": ["ฟังหวยออนไลน์","ฟังหวยออนไลน์ Lotto"],
+  "keywords": [
+    "ฟังหวยออนไลน์",
+    "ฟังหวยออนไลน์ Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
