@@ -1,10 +1,18 @@
 {
-  "name": "kpBGTa1HzOobdOmomWzteLfNQk4ULZOLdH2QD8wacP26cYwpPI",
+  "name": "เวลาเปิด ปิด hsi สรุปว่าอะไร - เว็บใหม่ huay24 2023 ล่าสุด-",
   "theme": "syntax",
   "version": "1.0.90",
   "description": "เวลาเปิด ปิด HSI หวยไทยรัฐ บน เวลาเปิด ปิด HSI ที่ Huay24 เว็บหวยออนไลน์ อันดับหนึ่ง เป็นชุดตารางเลขเด่นยอดนิยมที่ได้รับความสนใจเป็นอย่างมาก ไม่ต่างจากหวยช",
   "repository": "https://github.com/gullibles-02/indoor-04",
-  "keywords": ["เวลาเปิด ปิด HSI","เวลาเปิด","ปิด","HSI","เวลาเปิด Huay24","ปิด Huay24","HSI Huay24"],
+  "keywords": [
+    "เวลาเปิด ปิด HSI",
+    "เวลาเปิด",
+    "ปิด",
+    "HSI",
+    "เวลาเปิด Huay24",
+    "ปิด Huay24",
+    "HSI Huay24"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
