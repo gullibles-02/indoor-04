@@ -1,13 +1,10 @@
 {
-  "name": "ผลหุ้นเยอรมันออกกี่โมง ทำไมถึงนิยม - เว็บใหม่ huay happy 2023 ล่าสุด-",
+  "name": "AGJZj7BwtGaUj17T6Dcfm7kFC7FgFYR63UvndO34JRsIbDNggX",
   "theme": "syntax",
   "version": "1.1.3",
   "description": "ผลหุ้นเยอรมันออกกี่โมง ผลการออกรางวัล จาก ผลหุ้นเยอรมันออกกี่โมง ที่ Huay Happy เว็บหวยออนไลน์ อันดับหนึ่ง หวยฮานอย ( Xổ Số Hà NộI ) ทั้ง 3 แบบ ฮานอย ปกติฮ",
   "repository": "https://github.com/gullibles-02/indoor-04",
-  "keywords": [
-    "ผลหุ้นเยอรมันออกกี่โมง",
-    "ผลหุ้นเยอรมันออกกี่โมง Huay Happy"
-  ],
+  "keywords": ["ผลหุ้นเยอรมันออกกี่โมง","ผลหุ้นเยอรมันออกกี่โมง Huay Happy"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
