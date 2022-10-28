@@ -1,10 +1,18 @@
 {
-  "name": "xK0scvH04AoROHhijCMM8wu6rE5ou3gr1R3EKYM4UGiUrutbSc",
+  "name": "bsesn share price มีคำตอบ - เว็บใหม่ choke 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.83",
   "description": "bsesn share price การดูผลหวยหุ้นดาวโจนส์ เพื่อ bsesn share price ที่ Choke เว็บหวยออนไลน์ อันดับหนึ่ง เป็นอะไรที่ดูไม่ยาก bsesn share price เพราะการดูผล 3 ",
   "repository": "https://github.com/gullibles-02/indoor-04",
-  "keywords": ["BSESN SHARE PRICE","BSESN","SHARE","PRICE","BSESN Choke","SHARE Choke","PRICE Choke"],
+  "keywords": [
+    "BSESN SHARE PRICE",
+    "BSESN",
+    "SHARE",
+    "PRICE",
+    "BSESN Choke",
+    "SHARE Choke",
+    "PRICE Choke"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
