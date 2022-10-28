@@ -1,10 +1,22 @@
 {
-  "name": "G2AdD9vdgg64ivz44WrpWGoLZ6mV2uJDmgT5FPVRXmCodrAGe0",
+  "name": "ตรวจหวย 1 กรกฎาคม 2565 ไทยรัฐ แตกต่างกันอย่างไร - เว็บใหม่ huaydee 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.82",
   "description": "ตรวจหวย 1 กรกฎาคม 2565 ไทยรัฐ ระวัง อย่างไรก็ดี ตรวจหวย 1 กรกฎาคม 2565 ไทยรัฐ ที่ Huaydee เว็บหวยออนไลน์ อันดับหนึ่ง 89เลข 2 ตัว   40 43 48 62 67 96ขอให้สน",
   "repository": "https://github.com/gullibles-02/indoor-04",
-  "keywords": ["ตรวจหวย 1 กรกฎาคม 2565 ไทยรัฐ","ตรวจหวย","1","กรกฎาคม","2565","ไทยรัฐ","ตรวจหวย Huaydee","1 Huaydee","กรกฎาคม Huaydee","2565 Huaydee","ไทยรัฐ Huaydee"],
+  "keywords": [
+    "ตรวจหวย 1 กรกฎาคม 2565 ไทยรัฐ",
+    "ตรวจหวย",
+    "1",
+    "กรกฎาคม",
+    "2565",
+    "ไทยรัฐ",
+    "ตรวจหวย Huaydee",
+    "1 Huaydee",
+    "กรกฎาคม Huaydee",
+    "2565 Huaydee",
+    "ไทยรัฐ Huaydee"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
